@@ -1,8 +1,8 @@
 # All STP-KAS repositories
 
-Account: [STP-KAS](https://github.com/STP-KAS). **42 public** (39 original + 3 forks). Freeze: **15 Sep 2026**.
+Account: [STP-KAS](https://github.com/STP-KAS). **44 public** after this pass: the previous 42 (39 original + 3 forks) plus **this map** and the **profile README**. Freeze: **15 Sep 2026**.
 
-The mess is real: many repos are pass logs of the same week, four 402 costumes, three tills, two KaChats, and a 57 KB master file that starts with six “what this pass did” sections. This page is the cut.
+The mess is real: many repos are pass logs of the same week, four 402 costumes, three tills, two KaChats, and a 57 KB master file that started with six “what this pass did” sections. This page is the cut. Do not open repo 45 for another pass log.
 
 **Rule:** a stranger building a Kaspa dApp should not need more than the **keep** table. Everything else is archive, a fork of upstream, or a journal.
 
@@ -13,6 +13,7 @@ The mess is real: many repos are pass logs of the same week, four 402 costumes, 
 | Repo | Job | Why this one |
 | --- | --- | --- |
 | [kaspa-dapps](https://github.com/STP-KAS/kaspa-dapps) | This map | Front door. |
+| [STP-KAS](https://github.com/STP-KAS/STP-KAS) | Profile README | Points here. Pin this on the GitHub profile. |
 | [grok-heavy-showcase](https://github.com/STP-KAS/grok-heavy-showcase) | Dual-rail freeze lab | Executable constitution. 10/10 tests this pass. |
 | [peglab-stp](https://github.com/STP-KAS/peglab-stp) | WILL DEPEG classroom | The warning + STABLES-GUIDE. |
 | [peglab-poc](https://github.com/STP-KAS/peglab-poc) | Receipt PoC | Parker unit + PegLab honesty. Fill the timeout journal. |
@@ -99,7 +100,7 @@ These can stay public. They should not be the thing you send a builder.
 
 ## Why this cut
 
-A builder asked to “summarise all repos, it is a mess.” Growing another encyclopedia would add a 43rd object to the pile.
+A builder asked to “summarise all repos, it is a mess.” Growing another encyclopedia would add object 45 to the pile.
 
 Criteria for **keep**:
 
