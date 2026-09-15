@@ -1,0 +1,42 @@
+{
+  "name": "kaspa-dapps",
+  "freeze": "2026-09-15",
+  "account": "STP-KAS",
+  "not": ["kaspa-core", "a-dollar", "a-token-sale"],
+  "live_this_pass": {
+    "mainnet_daa": 540389037,
+    "circulating_kas": 27701371838.337,
+    "block_reward_kas": 2.18267645,
+    "tn10_daa": 571008588,
+    "groks_wallet_sompi": 116314625488733,
+    "ishum_txid": "a7a042501c32cfede58d8672b12a86deaaa2f538606d82002d2e286e689028e7",
+    "showcase_tests": "10/10"
+  },
+  "keep": [
+    "kaspa-dapps",
+    "grok-heavy-showcase",
+    "peglab-stp",
+    "peglab-poc",
+    "ishum",
+    "kusdt-bitcoffee",
+    "poc-revisited",
+    "sixpack.wtf",
+    "kns-spec",
+    "wallet-integration",
+    "stillpay-tn10",
+    "stillpay-mainnet",
+    "kaspa-master-file",
+    "groks-wallet",
+    "windows-p2p-node-guide",
+    "stp-kachat"
+  ],
+  "rails": {
+    "dapp_unit": "native",
+    "miner_fee": "native",
+    "x402": "native",
+    "merchant_quote": "display-fiat",
+    "usdt": "labelled-guest",
+    "tpeg": "classroom-will-depeg",
+    "bitcoffee_kusd": "tn10-candidate-not-shops"
+  }
+}
