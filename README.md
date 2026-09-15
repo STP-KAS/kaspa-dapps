@@ -4,7 +4,7 @@
 
 Not Kaspa core. Not a dollar. Not a token sale. Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Freeze: **15 Sep 2026**.
 
-This replaces hunting 42 overlapping GitHubs. The encyclopedia stays at [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). **This is the front door.**
+This replaces hunting the previous **42** overlapping GitHubs. After this pass the account also has this map and a profile README (**44** public). The encyclopedia stays at [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). **This is the front door.**
 
 | File | What |
 | --- | --- |
@@ -88,7 +88,7 @@ Picked because a stranger can *do something* or *learn a law*. Everything else i
 | [wallet-integration](https://github.com/STP-KAS/wallet-integration) | Kasware / Kastle | In-page inject = these two only. QR / `kaspa:` URI for everyone else. |
 | [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) | Pin encyclopedia | Compiler tag, KIPs, forum. Too long to be a front door. |
 
-Full 42-row cut: [REPOS.md](REPOS.md).
+Full cut: [REPOS.md](REPOS.md).
 
 ---
 
