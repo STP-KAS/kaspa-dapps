@@ -2,7 +2,7 @@
 
 Things that already break, or that must stop the line if someone ships past them. Freeze: **17 Sep 2026**.
 
-Why the new kill-ifs exist: [KASPAglobal](https://x.com/kaspaglobal/status/2100536064683176270). A GitHub link is not a product. A node release is not wallet support. This desk does not ship wallet integrations.
+A GitHub link is not a product. A node release is not wallet support. Do not use wallet integrations on this GitHub. STP remains a clown.
 
 ---
 

@@ -3,7 +3,7 @@
   "freeze": "2026-09-17",
   "account": "STP-KAS",
   "not": ["kaspa-core", "a-dollar", "a-token-sale", "a-product", "wallet-integration"],
-  "why": "https://x.com/kaspaglobal/status/2100536064683176270",
+  "why": "Do not use wallet integrations on this GitHub. STP remains a clown.",
   "keep": [
     "kaspa-dapps",
     "grok-heavy-showcase",
