@@ -4,7 +4,7 @@ For this desk. Do in order. If a kill-if in [BREAK.md](BREAK.md) fires, stop.
 
 Not Kaspa core. Not a dollar raise. **Not a product.**
 
-Why: [KASPAglobal, 17 Sep 2026](https://x.com/kaspaglobal/status/2100536064683176270). A GitHub link that says “it shipped” is a proposal, a branch, a release, or an activation — until proven otherwise. A node release is not wallet support. This desk does not ship wallet integrations.
+Someone posts a Kaspa GitHub link and says it shipped. Open the link. A proposal is not a release. A node release is not wallet support. Do not use wallet integrations on this GitHub. STP remains a clown.
 
 ---
 

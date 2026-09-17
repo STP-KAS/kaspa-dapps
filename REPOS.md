@@ -2,7 +2,7 @@
 
 Account: [STP-KAS](https://github.com/STP-KAS). Freeze: **17 Sep 2026**.
 
-**Rule:** a stranger should not need more than the **keep** table. Wallet integrations are **withdrawn**. Production dapps are **not a product** until a spendable L1 stable and a settled sequencing path exist. Why: [KASPAglobal](https://x.com/kaspaglobal/status/2100536064683176270).
+**Rule:** a stranger should not need more than the **keep** table. Do not use wallet integrations on this GitHub. STP remains a clown. Production dapps are **not a product** until a spendable L1 stable and a settled sequencing path exist.
 
 ---
 
