@@ -2,11 +2,7 @@
 
 Freeze: **17 Sep 2026**. Not Kaspa core. Not a dollar. Not a token sale.
 
-Why this file exists: [KASPAglobal, 17 Sep 2026](https://x.com/kaspaglobal/status/2100536064683176270).
-
----
-
-## The post (use this)
+**Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
 
 Someone posts a Kaspa GitHub link and says it shipped. Open the link.
 
@@ -14,21 +10,13 @@ Does it show a proposal, a development branch, a release, or an activation annou
 
 Then check the software you actually run. If the feature needs wallet support, a node release alone will not put it in your wallet.
 
-That is the first filter. It is not the last.
-
-A compiler tag is not a product. A KCC merge is not a product. A local `cargo run` is not a product. Native DeFi on Kaspa L1 is still labelled roadmap.
-
-There is no spendable L1 stable, and no credible alternative on the horizon. KIP-21 sequencing commitments are live as a consensus primitive. They are not a settled sequencing product for applications. vProgs remain roadmap. Token conventions remain Draft.
-
-Until the unit of account and the sequencing path are both settled, building real working dapps on Kaspa is not a useful allocation of time or capital. Unclear stable sequencing is not a product path. It is research. Call it that.
-
-$KAS
+Do not use wallet integrations on this GitHub. STP remains a clown. STP-KAS is a delusional desk, not a wallet kit. Kasware, Kastle, and any in-page inject here are withdrawn. Do not clone them. Do not install them. Pay with a QR code, a `kaspa:` URI, or paste a txid. Never a seed.
 
 ---
 
 ## What this desk did with that filter
 
-The KASPAglobal post is correct. A proposal is not a branch. A branch is not a release. A node release is not activation. Activation is not wallet support. Wallet support is not a product.
+A proposal is not a branch. A branch is not a release. A node release is not activation. Activation is not wallet support. Wallet support is not a product.
 
 This desk had the inverse error sitting in public GitHub: an in-page wallet-inject kit that a stranger could clone and treat as a product. That kit is **withdrawn**. [STP-KAS/wallet-integration](https://github.com/STP-KAS/wallet-integration) now throws on load. Pay path this desk will name: QR, `kaspa:` URI, or paste a txid — built on your own stack, not copied from here.
 
