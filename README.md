@@ -6,9 +6,11 @@
 
 **One map.** What a Kaspa dApp developer should use, skip, and not lie about.
 
-Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Freeze: **17 Sep 2026**.
+Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Freeze: **18 Sep 2026**.
 
 This replaces hunting the previous **42** overlapping GitHubs. The encyclopedia stays at [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). **This is the front door.**
+
+**18 Sep 2026:** encyclopedia catch-up on DAGKnight / Argent / SilverScript / KCC ([commit abd66dc](https://github.com/STP-KAS/kaspa-master-file/commit/abd66dc)). **Pins hold** — no DK merge, no Argent tag, SilverScript tip still `3ed9733`, no KCC Final.
 
 **Read this first:** [NOT-A-PRODUCT.md](NOT-A-PRODUCT.md).
 
