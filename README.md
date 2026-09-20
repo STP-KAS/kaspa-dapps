@@ -6,7 +6,9 @@
 
 **One map.** What a Kaspa dApp developer should use, skip, and not lie about.
 
-Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Freeze: **18 Sep 2026**.
+Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Freeze: **20 Sep 2026**.
+
+**20 Sep:** rusty-kaspa master → `eb0a856` (#1136 IBD chunks + #1137 RejectCoinbase merged). DK still unmerged. Encyclopedia: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
 
 This replaces hunting the previous **42** overlapping GitHubs. The encyclopedia stays at [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). **This is the front door.**
 
