@@ -174,3 +174,12 @@ Bitcoin proved electronic cash without a trusted third party. Kaspa made that ca
 ---
 
 MIT. No warranty. Recheck live endpoints before quoting numbers as current.
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
