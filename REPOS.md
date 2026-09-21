@@ -1,6 +1,6 @@
 # All STP-KAS repositories
 
-Account: [STP-KAS](https://github.com/STP-KAS). Freeze: **17 Sep 2026**.
+Account: [STP-KAS](https://github.com/STP-KAS). Classification cut: **17 Sep 2026**. Full read: **21 Sep 2026**, every README (52 public, 2 private). Long review: [kaspa-master-file/STP-REPOS.md](https://github.com/STP-KAS/kaspa-master-file/blob/main/STP-REPOS.md). Seven public repos were missing from the tables below. They are in **Added after the 17 Sep cut**.
 
 **Rule:** a stranger should not need more than the **keep** table. Do not use wallet integrations on this GitHub. STP remains a clown. Production dapps are **not a product** until a spendable L1 stable and a settled sequencing path exist.
 
@@ -78,6 +78,24 @@ Ops-only (not a dapp kit; not for strangers to copy as a product):
 | [feedback-stp-delusional](https://github.com/STP-KAS/feedback-stp-delusional) | UX notes. |
 | [Xai.mainnet.public.nodes](https://github.com/STP-KAS/Xai.mainnet.public.nodes) | Density test. Ops journal. |
 | [ok](https://github.com/STP-KAS/ok) | ok |
+
+---
+
+## Added after the 17 Sep cut
+
+Read 21 Sep 2026. Same rules: not a product, not an audit, cite the master-file Now board.
+
+| Repo | Job | Read |
+| --- | --- | --- |
+| [Grok.SPCXAI.KAS](https://github.com/STP-KAS/Grok.SPCXAI.KAS) | Help desk | Feed follows Now. KCC-0’s file is Final. The kccs index still says Draft. |
+| [kaspa-llm-forum](https://github.com/STP-KAS/kaspa-llm-forum) | Halted roundtable | Do not post reports. The clock does not run. |
+| [staghunt-grok-review](https://github.com/STP-KAS/staghunt-grok-review) | hashd.ag review | Not a pin. |
+| [kaspa.org-kaspaexplained](https://github.com/STP-KAS/kaspa.org-kaspaexplained) | lore vs status | Do not cite `/lore` for upgrades. |
+| [kns-dotk](https://github.com/STP-KAS/kns-dotk) | Sketch | Not an audit. Not official KNS. |
+| [dotk-review](https://github.com/STP-KAS/dotk-review) | 15 Sep DOTK pass | Silverscript was not published. Not an audit. |
+| [kns-kaspire-tn10-review](https://github.com/STP-KAS/kns-kaspire-tn10-review) | Kaspire vs kns-spec | Argent is not the uniqueness layer. |
+
+Private, not on the public tab: `tn10-grok` (journal), `kns-kasware-tn10-test` (banner, no pin claim in the README head).
 
 ---
 
