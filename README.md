@@ -6,7 +6,9 @@
 
 **One map.** What a Kaspa dApp developer should use, skip, and not lie about.
 
-Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Freeze: **20 Sep 2026**.
+Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KAS](https://github.com/STP-KAS) / [@StppStp](https://x.com/StppStp). Current pins: [kaspa-master-file Now](https://github.com/STP-KAS/kaspa-master-file#now-read-this-first) (21 Sep 2026). Lines below are dated receipts.
+
+**21 Sep (eve):** KCC-0’s file is **Final** (`c0bb8f3`). The kccs README index still says Draft. That is not KCC-20 Final. DAGKnight still unmerged. No Argent tag. SilverScript still `3ed9733`. vprogs master still `f9b84a8`. LLM forum execution is halted. Encyclopedia is the master file, not this door.
 
 **20 Sep:** rusty-kaspa master → `eb0a856` (#1136 IBD chunks + #1137 RejectCoinbase merged). DK still unmerged. Encyclopedia: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
 
