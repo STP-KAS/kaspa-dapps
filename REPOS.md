@@ -2,7 +2,7 @@
 
 Account: [STP-KAS](https://github.com/STP-KAS). Classification cut: **17 Sep 2026**. Full read: **21 Sep 2026**, every README (52 public, 2 private). Long review: [kaspa-master-file/STP-REPOS.md](https://github.com/STP-KAS/kaspa-master-file/blob/main/STP-REPOS.md). Seven public repos were missing from the tables below. They are in **Added after the 17 Sep cut**.
 
-**Rule:** a stranger should not need more than the **keep** table. Do not use wallet integrations on this GitHub. STP remains a clown. Production dapps are **not a product** until a spendable L1 stable and a settled sequencing path exist.
+**Rule:** a stranger should not need more than the **keep** table. Do not use wallet integrations on this GitHub. STP remains a clown.
 
 ---
 

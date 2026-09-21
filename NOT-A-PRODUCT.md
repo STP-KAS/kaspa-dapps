@@ -2,7 +2,7 @@
 
 Freeze: **17 Sep 2026**. Not Kaspa core. Not a dollar. Not a token sale.
 
-**Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+**Experimental only. Not a product.**
 
 Someone posts a Kaspa GitHub link and says it shipped. Open the link.
 
@@ -19,13 +19,6 @@ Do not use wallet integrations on this GitHub. STP remains a clown. STP-KAS is a
 A proposal is not a branch. A branch is not a release. A node release is not activation. Activation is not wallet support. Wallet support is not a product.
 
 This desk had the inverse error sitting in public GitHub: an in-page wallet-inject kit that a stranger could clone and treat as a product. That kit is **withdrawn**. [STP-KAS/wallet-integration](https://github.com/STP-KAS/wallet-integration) now throws on load. Pay path this desk will name: QR, `kaspa:` URI, or paste a txid — built on your own stack, not copied from here.
-
-The second error is calling L1 app work a product while the two load-bearing rails are missing:
-
-| Rail | Status 17 Sep 2026 | Meaning |
-| --- | --- | --- |
-| Spendable L1 stable | **None.** No USDT/USDC-class issuer on L1. BitCoffee KUSD is TN10, unaudited, peg unproven. 1kUSD is research. Bridged L2 stables are not L1. | Dapps that need a unit of account do not have one. |
-| App sequencing | **Unsettled as a product.** KIP-21 is Active (partitioned sequencing *commitments*). vProgs: early development, no release. Argent: not general-production. KCC-20: Draft. | A consensus primitive is not an application sequencer. |
 
 Referee: [kaspaexplained.com/status](https://kaspaexplained.com/status). Independent L1-app pass: [iziodev-build-a-kaspa-l1-grok-reveieuw](https://github.com/STP-KAS/iziodev-build-a-kaspa-l1-grok-reveieuw).
 

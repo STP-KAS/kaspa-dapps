@@ -27,8 +27,6 @@ A GitHub link is not a product. A node release is not wallet support. Do not use
 | **vProgs not product** | kaspanet/vprogs: early development, no release. | Roadmap. |
 | **BitCoffee peg unproven** | Fixed module price. No DEX. | Candidate. Not shops. |
 | **1kUSD not production** | Mock oracle, stub governance, no audit, no mainnet. | Study. |
-| **No spendable L1 stable** | iziodev pass, 17 Sep 2026. Native L1 USD issuer: none tracked. | Production dapps are not a useful spend. |
-| **App sequencing unsettled as a product** | KIP-21 Active as *commitments*. vProgs unreleased. | A primitive is not a sequencer product. |
 
 ---
 
@@ -51,7 +49,6 @@ If any of these appear in a STP-KAS README, till, or pitch, revert.
 13. **Welding Ishum’s empty kUSD chair onto BitCoffee** as if they were one asset.
 14. **Shipping in-page wallet inject.** Kit withdrawn 17 Sep 2026. Restore is a revert.
 15. **Calling a proposal, branch, compiler, or node release a product.**
-16. **Staffing production L1 dapps** while the L1 stable and the sequencing path are both unsettled.
 
 ---
 

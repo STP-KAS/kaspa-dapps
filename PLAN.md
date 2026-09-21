@@ -14,9 +14,7 @@ Someone posts a Kaspa GitHub link and says it shipped. Open the link. A proposal
 | --- | --- | --- |
 | **0 — public goods** | This map, kns-spec, honest pins, freeze lab | A token. A product. |
 | **1 — BTCPay-shaped software** | Ishum till, anyone hosts, desk keeps 0 | Circle. Fill is not a business. |
-| **out of path** | Production L1 dapps, DAGKnight, vProgs, Argent ICC, a fourth 402, tPEG-as-money, a desk-issued dollar, wallet inject | Until a spendable L1 stable *and* a settled sequencing path exist, plus tagged + Active + audits |
-
-**De facto:** building real working dapps on Kaspa is not a useful spend of time or resources while the outcome for stable sequencing is unclear. Receipts and tills are not that claim.
+| **out of path** | DAGKnight, vProgs, Argent ICC, a fourth 402, tPEG-as-money, a desk-issued dollar, wallet inject | Tagged + Active + audits where a release is claimed. |
 
 ---
 

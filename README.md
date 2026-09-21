@@ -1,4 +1,4 @@
-> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+> **Experimental only. Not a product.**
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
@@ -20,7 +20,7 @@ This replaces hunting the previous **42** overlapping GitHubs. The encyclopedia 
 
 **Read this first:** [NOT-A-PRODUCT.md](NOT-A-PRODUCT.md).
 
-There is no spendable L1 stable, and no credible alternative on the horizon. KIP-21 is a consensus primitive, not a settled app-sequencing product. Until those two are settled, building real working dapps on Kaspa is not a useful spend of time or capital. Wallet integrations were withdrawn from this desk so a clone cannot be used as a wallet kit.
+Wallet integrations were withdrawn from this desk so a clone cannot be used as a wallet kit.
 
 | File | What |
 | --- | --- |
@@ -45,7 +45,7 @@ Pick a layer. They are not interchangeable. **Do not call this a product path.**
 
 Do **not** wait for DAGKnight, vProgs, Argent, or a Kaspa dollar. Those are research or untagged. Mainnet today is GHOSTDAG, 10 BPS, Toccata spend rules.
 
-Do **not** spend a product team on “real working dapps” while the L1 dollar is missing and app sequencing is unsettled. Honest work: receipts, a till that quotes fiat and settles native KAS, freeze labs. That is not DeFi.
+Honest work: receipts, a till that quotes fiat and settles native KAS, freeze labs. That is not DeFi.
 
 Referee: [kaspaexplained.com/status](https://kaspaexplained.com/status) (checked 14 Sep 2026; L1 snapshot below rechecked **15 Sep 2026**).
 
@@ -122,7 +122,7 @@ Full cut: [REPOS.md](REPOS.md).
 8. **No wallet integrations.** Inject kit withdrawn 17 Sep 2026. QR / `kaspa:` URI / paste txid only. Never ask for a seed.
 9. Merged Active KIP is law. A tweet, a Draft KCC, and an open PR are not.
 10. Cite Parker as **GitHub only**. Do not clone kaspaexplained.com.
-11. **Not a product.** Production dapps wait on a spendable L1 stable *and* a settled sequencing path. Unclear stable sequencing is research.
+11. **Not a product.**
 
 ---
 
@@ -151,7 +151,6 @@ Do this, in order: [PLAN.md](PLAN.md).
 Stop the line if any of these fire: [BREAK.md](BREAK.md). Short list:
 
 - Calling a compiler, KCC, or node release a **product**
-- Spending a product team on L1 dapps while the dollar and sequencing path are unsettled
 - USDT as gas or as the dapp unit
 - tPEG listed as money
 - 1 sompi sold as a constructible mainnet output (KIP-9 storage mass rejects it)
@@ -169,9 +168,9 @@ The 10-year product is not a wrapped dollar and not an L2 clone of Ethereum.
 
 It is **programmable proof-of-work cash that keeps a promise**: escrow that released, a 402 that charged, a receipt that matched locked sompi, a till someone else can host. After the last ~1B KAS is emitted, miners eat **fees**. Dapps whose unit is native KAS feed that. Dapps whose unit is Tether feed Tether, and die on freeze day.
 
-That product does not exist yet. A missing L1 stable plus unsettled app sequencing is research. Year 1 on this pin: one WorkCredit UTXO, receipts with live TN10 txids, one 402 endpoint that actually charges, Ishum hosted on a second machine, USDT labelled at the till. Covenant counts may stay small. Locked KAS in *our* UTXOs should be inventory, not TVL cosplay.
+That product does not exist yet. Year 1 on this pin: one WorkCredit UTXO, receipts with live TN10 txids, one 402 endpoint that actually charges, Ishum hosted on a second machine, USDT labelled at the till. Covenant counts may stay small. Locked KAS in *our* UTXOs should be inventory, not TVL cosplay.
 
-Bitcoin proved electronic cash without a trusted third party. Kaspa made that cash fast and (as of Toccata) programmable. Putting Tether back in as the only language the app speaks un-does the point. Pretending the app layer is a product before the dollar and the sequencing path exist un-does the point the other way.
+Bitcoin proved electronic cash without a trusted third party. Kaspa made that cash fast and (as of Toccata) programmable. Putting Tether back in as the only language the app speaks un-does the point.
 
 ---
 
