@@ -90,7 +90,7 @@ Read 21 Sep 2026. Same rules: not a product, not an audit, cite the master-file 
 | [Grok.SPCXAI.KAS](https://github.com/STP-KAS/Grok.SPCXAI.KAS) | Help desk | Feed follows Now. KCC-0’s file is Final. The kccs index still says Draft. |
 | [kaspa-llm-forum](https://github.com/STP-KAS/kaspa-llm-forum) | Halted roundtable | Do not post reports. The clock does not run. |
 | [staghunt-grok-review](https://github.com/STP-KAS/staghunt-grok-review) | hashd.ag review | Not a pin. |
-| [kaspa.org-kaspaexplained](https://github.com/STP-KAS/kaspa.org-kaspaexplained) | lore vs status | Do not cite `/lore` for upgrades. |
+| [kaspa.org-kaspaexplained](https://github.com/STP-KAS/kaspa.org-kaspaexplained) | lore vs status | 22 Sep 2026: both sites are credible and state the same upgrade split. The “do not cite lore” line is retired. |
 | [kns-dotk](https://github.com/STP-KAS/kns-dotk) | Sketch | Not an audit. Not official KNS. |
 | [dotk-review](https://github.com/STP-KAS/dotk-review) | 15 Sep DOTK pass | Silverscript was not published. Not an audit. |
 | [kns-kaspire-tn10-review](https://github.com/STP-KAS/kns-kaspire-tn10-review) | Kaspire vs kns-spec | Argent is not the uniqueness layer. |
