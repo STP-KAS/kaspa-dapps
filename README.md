@@ -24,7 +24,7 @@ Wallet integrations were withdrawn from this desk so a clone cannot be used as a
 
 | File | What |
 | --- | --- |
-| [NOT-A-PRODUCT.md](NOT-A-PRODUCT.md) | The filter. Compiler ≠ product. No L1 stable. Sequencing unsettled. |
+| [NOT-A-PRODUCT.md](NOT-A-PRODUCT.md) | The filter. Compiler ≠ product. |
 | [RAILS.md](RAILS.md) | Native KAS vs Tether vs PoC dollars vs Bitcoin / Satoshi |
 | [REPOS.md](REPOS.md) | STP-KAS repos: keep, one-of, archive, withdrawn |
 | [PLAN.md](PLAN.md) | What to do, in order |
