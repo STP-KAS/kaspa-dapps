@@ -12,11 +12,11 @@ Not Kaspa core. Not a dollar. Not a token sale. **Not a product.** Desk: [STP-KA
 
 **20 Sep:** rusty-kaspa master → `eb0a856` (#1136 IBD chunks + #1137 RejectCoinbase merged). DK still unmerged. Encyclopedia: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
 
-**20 Sep (eve):** kccs#24 head → `7159d48`; #27 approved (still Draft). Pins hold. Encyclopedia: [kaspa-master-file ec73dea](https://github.com/STP-KAS/kaspa-master-file/commit/ec73dea).
+**20 Sep (eve):** kccs#24 head → `7159d48`; #27 approved (still Draft). Pins hold. Encyclopedia: [kaspa-master-file ec73dea](https://github.com/STP-KAS/kaspa-master-file/commit/fb8e960).
 
 This replaces hunting the previous **42** overlapping GitHubs. The encyclopedia stays at [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). **This is the front door.**
 
-**18 Sep 2026:** encyclopedia catch-up on DAGKnight / Argent / SilverScript / KCC ([commit abd66dc](https://github.com/STP-KAS/kaspa-master-file/commit/abd66dc)). **Pins hold** — no DK merge, no Argent tag, SilverScript tip still `3ed9733`, no KCC Final.
+**18 Sep 2026:** encyclopedia catch-up on DAGKnight / Argent / SilverScript / KCC ([commit abd66dc](https://github.com/STP-KAS/kaspa-master-file/commit/22270cb)). **Pins hold** — no DK merge, no Argent tag, SilverScript tip still `3ed9733`, no KCC Final.
 
 **Read this first:** [NOT-A-PRODUCT.md](NOT-A-PRODUCT.md).
 
