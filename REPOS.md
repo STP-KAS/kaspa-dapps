@@ -95,7 +95,7 @@ Read 21 Sep 2026. Same rules: not a product, not an audit, cite the master-file 
 | [dotk-review](https://github.com/STP-KAS/dotk-review) | 15 Sep DOTK pass | Silverscript was not published. Not an audit. |
 | [kns-kaspire-tn10-review](https://github.com/STP-KAS/kns-kaspire-tn10-review) | Kaspire vs kns-spec | Argent is not the uniqueness layer. |
 
-Private, not on the public tab: `tn10-grok` (journal), `kns-kasware-tn10-test` (banner, no pin claim in the README head).
+Private, not on the public tab: `tn10-grok` (journal), `kns-kasware-tn10-test` (banner, no pin claim in the README head). Update 26 Sep 2026: [`kns-kasware-tn10-test`](https://github.com/STP-KAS/kns-kasware-tn10-test) is public now; `tn10-grok` is still private.
 
 ---
 
